@@ -1,0 +1,29 @@
+{
+  "name": "vscode-jarvis",
+  "displayName": "VS Code Virtual Assistant",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "main": "./build/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "vscode-jarvis.about",
+        "title": "About"
+      },
+      {
+        "command": "vscode-jarvis.chat",
+        "title": "Chat"
+      }
+    ]
+  },
+  "activationEvents": [
+    "onCommand:vscode-jarvis.about",
+    "onCommand:vscode-jarvis.chat"
+  ],
+  "description": "An interactive virtual assistant with in-built AI chat responder. You can ask it questions, ask for a joke, casually chat with it, and do lots of more stuff."
+}
