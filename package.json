@@ -1,7 +1,8 @@
 {
   "name": "vscode-jarvis",
   "displayName": "VS Code Virtual Assistant",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "SohamGhugare",
   "engines": {
     "vscode": "^1.58.0"
   },
@@ -25,5 +26,7 @@
     "onCommand:vscode-jarvis.about",
     "onCommand:vscode-jarvis.chat"
   ],
+  "repository": "https://github.com/SohamGhugare/vscode-virtual-assistant",
+  "icon": "logo.png",
   "description": "An interactive virtual assistant with in-built AI chat responder. You can ask it questions, ask for a joke, casually chat with it, and do lots of more stuff."
 }
