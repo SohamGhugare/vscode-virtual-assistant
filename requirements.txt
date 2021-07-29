@@ -1,3 +1,4 @@
 vscode-ext
 pyttsx3
 requests
+wikipedia
