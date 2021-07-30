@@ -16,6 +16,7 @@ This is a vscode extension with a Virtual Assistant that you can play with when 
 
 ## Requirements:
   1. Python 3.6+
+  2. Requests library -> `pip install requests`
   2. PyTTSx3 library -> `pip install pyttsx3`
   3. Wikipedia library -> `pip install wikipedia`
  
