@@ -1,7 +1,7 @@
 {
   "name": "vscode-jarvis",
   "displayName": "VS Code Virtual Assistant",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "SohamGhugare",
   "engines": {
     "vscode": "^1.58.0"
