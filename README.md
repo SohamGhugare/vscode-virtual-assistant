@@ -15,6 +15,8 @@ This is a vscode extension with a Virtual Assistant that you can play with when 
   4. If you want to use the wikipedia search feature, just type `wiki [query]` in the input box (not the command palette) and replace `[query]` with whatever you want to search.
 
 ## Requirements:
+    (All requirements are installed by the extension if you have python, but incase it doesnt work, please cross check.)
+
   1. Python 3.6+
   2. Requests library -> `pip install requests`
   2. PyTTSx3 library -> `pip install pyttsx3`
