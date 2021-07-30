@@ -109,7 +109,7 @@ def chat():
                 greet()
                 res.replace(word, '')
 
-        if not responding:            
+        if not responding:
             ai_res = get_ai_response(res)
             speak(ai_res)
 

@@ -13,4 +13,9 @@ This is a vscode extension with a Virtual Assistant that you can play with when 
   2. Open your command palette with Ctrl + P.
   3. Type >Chat in the command palette to use the chat feature of the bot (an input box pops up where you can send messages to the Virtual Assistant).
   4. If you want to use the wikipedia search feature, just type `wiki [query]` in the input box (not the command palette) and replace `[query]` with whatever you want to search.
+
+## Requirements:
+  1. Python 3.6+
+  2. PyTTSx3 library -> `pip install pyttsx3`
+  3. Wikipedia library -> `pip install wikipedia`
  
